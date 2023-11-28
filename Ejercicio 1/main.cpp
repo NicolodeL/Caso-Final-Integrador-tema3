@@ -36,7 +36,8 @@ std::string Variant::to_string() {
 }
 
 std::string Variant::to_json_string() {
-    // Tu implementación aquí
+    json11::Json json = json11::Json::object { { "val", val } };
+    return json.dump();
 }
 
 Variant Variant::from_json_string(std::string sjson) {
