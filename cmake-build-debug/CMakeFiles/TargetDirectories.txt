@@ -1,0 +1,3 @@
+C:/Users/nicol/OneDrive/Documents/GitHub/Caso-Final-Integrador-tema3/cmake-build-debug/CMakeFiles/Ejercicio_1.dir
+C:/Users/nicol/OneDrive/Documents/GitHub/Caso-Final-Integrador-tema3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nicol/OneDrive/Documents/GitHub/Caso-Final-Integrador-tema3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
