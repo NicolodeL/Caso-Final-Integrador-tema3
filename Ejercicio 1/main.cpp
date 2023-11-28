@@ -32,7 +32,7 @@ public:
 };
 
 std::string Variant::to_string() {
-    // Tu implementación aquí
+    return "Variant: " + val;
 }
 
 std::string Variant::to_json_string() {
@@ -46,8 +46,6 @@ Variant Variant::from_json_string(std::string sjson) {
 Variant Variant::parse_json(json11::Json job) {
     // Tu implementación aquí
 }
-
-
 
 
 
